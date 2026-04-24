@@ -32,6 +32,7 @@ export const Stats = () => (
           playsInline
           autoPlay
           loop
+          muted
           className="w-full h-full object-cover"
         />
       </div>

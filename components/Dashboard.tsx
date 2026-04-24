@@ -93,11 +93,12 @@ export const Dashboard = () => (
         </div>
         <div className="rounded-xl overflow-hidden bg-foreground/90 aspect-video">
           <video
-            src="https://firebasestorage.googleapis.com/v0/b/mlbench-ee7b4.firebasestorage.app/o/fixed_output_6e2a578b-3c6b-4efa-a06f-3d96a7f320d9-u1.mp4?alt=media&token=7296f23b-f93d-43f3-8061-3e16bce893dc"
+            src="https://firebasestorage.googleapis.com/v0/b/mlbench-ee7b4.firebasestorage.app/o/cropped%20video.mp4?alt=media&token=017ed36e-3fa4-4d50-a86c-472cc944e2eb"
             controls
             playsInline
             autoPlay
             loop
+            muted
             className="w-full h-full object-cover"
           />
         </div>

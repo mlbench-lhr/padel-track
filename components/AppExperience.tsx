@@ -53,6 +53,7 @@ export const AppExperience = () => (
             playsInline
             autoPlay
             loop
+            muted
             className="w-full h-full object-cover"
           />
         </div>
