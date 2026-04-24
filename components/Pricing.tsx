@@ -28,7 +28,7 @@ const plans = [
 ];
 
 export const Pricing = () => (
-  <section id="pricing" className="py-24 bg-background">
+  <section id="pricing" className="py-24 bg-muted/40">
     <div className="container">
       <div className="text-center">
         <span className="inline-block px-4 py-1.5 rounded-full bg-primary/10 text-primary text-xs font-semibold tracking-wide uppercase">
