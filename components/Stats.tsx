@@ -25,7 +25,7 @@ export const Stats = () => (
         ))}
       </div>
 
-      <div className="mt-10 rounded-lg overflow-hidden border border-border shadow-card bg-foreground/90 aspect- max-w-3xl mx-auto">
+      <div className="mt-10 rounded-lg overflow-hidden border border-border shadow-card bg-foreground/90 aspect-video max-w-3xl mx-auto">
         <video
           src="https://firebasestorage.googleapis.com/v0/b/mlbench-ee7b4.firebasestorage.app/o/final_1minute(New).mp4?alt=media&token=a92af498-754e-485f-a5e4-a816c3106b29"
           controls
