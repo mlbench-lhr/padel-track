@@ -25,15 +25,15 @@ export const Stats = () => (
         ))}
       </div>
 
-      <div className="mt-10 rounded-2xl overflow-hidden border border-border shadow-card bg-foreground/90 aspect-video max-w-3xl mx-auto">
+      <div className="mt-10 rounded-lg overflow-hidden border border-border shadow-card bg-foreground/90 aspect- max-w-3xl mx-auto">
         <video
-          src="https://firebasestorage.googleapis.com/v0/b/mlbench-ee7b4.firebasestorage.app/o/fixed_output_0fcb03fd-fcc2-434a-aa01-f38c3b15b4e2-e1.mp4?alt=media&token=a134057e-75df-4ede-8b88-e11160e03b60"
+          src="https://firebasestorage.googleapis.com/v0/b/mlbench-ee7b4.firebasestorage.app/o/final_1minute(New).mp4?alt=media&token=a92af498-754e-485f-a5e4-a816c3106b29"
           controls
           playsInline
           autoPlay
           loop
           muted
-          className="w-full h-full object-cover"
+          className="w-full h-full object-"
         />
       </div>
     </div>
